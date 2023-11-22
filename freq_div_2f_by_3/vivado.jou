@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Wed Nov 22 15:36:08 2023
+# Process ID: 20052
+# Current directory: C:/Users/abhis/freq_div_2f_by_3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8328 C:\Users\abhis\freq_div_2f_by_3\freq_div_2f_by_3.xpr
+# Log file: C:/Users/abhis/freq_div_2f_by_3/vivado.log
+# Journal file: C:/Users/abhis/freq_div_2f_by_3\vivado.jou
+# Running On: LAPTOP-KB4NR7PR, OS: Windows, CPU Frequency: 2419 MHz, CPU Physical cores: 4, Host memory: 21243 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/abhis/freq_div_2f_by_3/freq_div_2f_by_3.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/Users/abhis/freq_div_2f_by_3/freq_div_2f_by_3_behav.wcfg
+source tb.tcl
