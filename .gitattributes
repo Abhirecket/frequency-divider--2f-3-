@@ -2,4 +2,5 @@
 * text=auto
 *.js linguist-detectable=false
 *.tcl linguist-detectable=false
+*.c linguist-detectable=false
 *.v linguist-detectable=true
